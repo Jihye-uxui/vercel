@@ -1,0 +1,50 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "fc9df40c6ebabe6e2a57",
+  "publicPath": "/static/",
+  "outputPath": "/Applications/MAMP/htdocs/frontity/portfolio/build/static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "portfolio": "portfolio.module.js"
+  },
+  "assets": [],
+  "filteredAssets": 2,
+  "namedChunkGroups": {
+    "portfolio": {
+      "chunks": [
+        "portfolio"
+      ],
+      "assets": [
+        "portfolio.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "list",
+      "files": [
+        "list.module.js"
+      ]
+    },
+    {
+      "id": "portfolio",
+      "files": [
+        "portfolio.module.js"
+      ]
+    }
+  ]
+}
